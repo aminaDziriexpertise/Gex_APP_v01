@@ -1,0 +1,19 @@
+***MENUGROUP=GexCalq.v5
+***POP11
+
+[GexCalq.v5]
+
+[BATI]^C^C(load "acad");BATI
+[EDS]^C^C(load "acad");EDS
+[TOPO]^C^C(load "acad");TOPO
+[RZO]^C^C(load "acad");RZO
+[NFP]^C^C(load "acad");NFP
+[MEP]^C^C(load "acad");MEP
+[FON]^C^C(load "acad");FON
+[TOUS]^C^C(load "acad");TOUS
+
+
+
+[--]
+
+[EXIT]^C
