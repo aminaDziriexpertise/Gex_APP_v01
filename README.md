@@ -25,6 +25,6 @@ Of the lisps I work with:
 | p_close | close polyline |
 
 
-![alt text]([https://gexsystems.sharepoint.com/:x:/s/Innovation/ESdR7B7A14BNvMExKJJK-RABaIycxbrl4Kv8unxSpuNOxA?e=fIFOl7](https://gexsystems.sharepoint.com/sites/Innovation/GexApp/Forms/AllItems.aspx?id=%2Fsites%2FInnovation%2FGexApp%2FPROJET%2DOPTIMISATION%2DCALCUL%2DSDP%2FDOCUMENTATION%2FCDCF&viewid=0aabf245%2Dd783%2D46a5%2Daf32%2D7377e25840b1&OR=Teams%2DHL&CT=1667813698753&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjEwMjgwNzIwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D))
+([https://gexsystems.sharepoint.com/:x:/s/Innovation/ESdR7B7A14BNvMExKJJK-RABaIycxbrl4Kv8unxSpuNOxA?e=fIFOl7](https://gexsystems.sharepoint.com/sites/Innovation/GexApp/Forms/AllItems.aspx?id=%2Fsites%2FInnovation%2FGexApp%2FPROJET%2DOPTIMISATION%2DCALCUL%2DSDP%2FDOCUMENTATION%2FCDCF&viewid=0aabf245%2Dd783%2D46a5%2Daf32%2D7377e25840b1&OR=Teams%2DHL&CT=1667813698753&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjEwMjgwNzIwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D))
 
 
