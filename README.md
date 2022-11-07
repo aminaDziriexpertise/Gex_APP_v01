@@ -25,6 +25,6 @@ Of the lisps I work with:
 | p_close | close polyline |
 
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://gexsystems.sharepoint.com/:x:/s/Innovation/ESdR7B7A14BNvMExKJJK-RABaIycxbrl4Kv8unxSpuNOxA?e=fIFOl7))
+![alt text](https://gexsystems.sharepoint.com/:x:/s/Innovation/ESdR7B7A14BNvMExKJJK-RABaIycxbrl4Kv8unxSpuNOxA?e=fIFOl7)
 
-Source: https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github
+
