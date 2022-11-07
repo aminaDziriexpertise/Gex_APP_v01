@@ -1,5 +1,3 @@
-# Gex_APP_v01
-Mise à zéro des plans 3D
 
 # GexAPP
 ## LISP EDS
